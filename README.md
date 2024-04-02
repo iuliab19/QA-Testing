@@ -1,1 +1,1 @@
-I undertook this project to assess the core functionalities of the "Bookzone" web application. Utilizing Qase for test creation, I executed a test run, which led to the discovery of 2 bugs during the testing phase
+I undertook this project to assess the core functionalities of the "Bookzone" web application. Utilizing Qase for test creation, I executed a test run, which led to the discovery of 2 bugs during the testing phase.
